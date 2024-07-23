@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Array for calculator operators -->
+    <string-array name="operators">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+
+    <!-- Array for length units -->
+    <string-array name="length_units">
+        <item>Meters</item>
+        <item>Kilometers</item>
+        <item>Centimeters</item>
+        <item>Millimeters</item>
+    </string-array>
+</resources>
